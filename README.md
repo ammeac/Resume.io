@@ -1,14 +1,5 @@
-
-
-
 <h1 align="center">
-  [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
-</h1>
-
-
-
-<h1 align="center">
-  <a href="https://ammeac.github.io/Resume.io/">Визитка | Резюме</a> | 
+  <a href="https://ammeac.github.io/Resume.io/">Визитка | Резюме</a> 
 </h1>
 
 <!-- ![image](https://media1.tenor.com/m/4ymuSQ2cdTQAAAAd/crocodilo-jamal.gif) -->
