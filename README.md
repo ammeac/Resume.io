@@ -1,7 +1,7 @@
 [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
 
-<p aligin="center">
+<!-- <p aligin="center">
    <img width="460" height="360"
      scr="https://tenor.com/tFls4euKSCC.gif">
-</p>
+</p> -->
 ![image](https://tenor.com/tFls4euKSCC.gif)
