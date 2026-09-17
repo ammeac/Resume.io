@@ -1,9 +1,8 @@
 # [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
 
 
-<div align="center"> 
-  ## Мой заголовок второго уровня 
-  ### Еще один заголовок 
+<div align="center">
+  # Мой заголовок
 </div>
 
 
