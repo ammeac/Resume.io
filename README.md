@@ -4,8 +4,7 @@
 <div align="center">
   # Мой заголовок
 </div>
-
-```
+---
 
 <!-- ![image](https://media1.tenor.com/m/4ymuSQ2cdTQAAAAd/crocodilo-jamal.gif) -->
 
