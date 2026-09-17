@@ -1,7 +1,9 @@
 
 
 
-[<h1 align="center">Визитка | Резюме</h1>](https://ammeac.github.io/Resume.io/)
+<h1 align="center">
+  [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
+</h1>
 
 
 
