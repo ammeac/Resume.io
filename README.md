@@ -1,4 +1,4 @@
-                                # [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
+# [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
 ___
 
 <div align="center">
