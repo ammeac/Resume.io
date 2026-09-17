@@ -1,6 +1,6 @@
-# <p align="center">
-  # [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
-# </p>
+<p align="center">
+  [Визитка | Резюме](https://ammeac.github.io/Resume.io/)
+</p>
 
 <!-- ![image](https://media1.tenor.com/m/4ymuSQ2cdTQAAAAd/crocodilo-jamal.gif) -->
 
